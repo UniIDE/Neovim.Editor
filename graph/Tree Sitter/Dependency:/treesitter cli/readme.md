@@ -1,6 +1,5 @@
 # Home:
 https://github.com/tree-sitter/tree-sitter-cli
-https://tree-sitter.github.io/tree-sitter/
 
 # Wiki:
 
