@@ -7,8 +7,4 @@
 
 Search: https://www.google.com/search?q=nodejs+install+debian
 
-# Install()
-# https://crates.io/crates/tree-sitter-cli
 
-## build from source:
-`cargo install --locked tree-sitter-cli  
