@@ -1,5 +1,5 @@
 # Home:
-
+https://crates.io/crates/tree-sitter-cli
 
 ## obsolete: https://github.com/tree-sitter/tree-sitter-cli
 
